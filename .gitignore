@@ -1,0 +1,68 @@
+# -------------------------
+# OS & IDE system files
+# -------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+*.iml
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.env/
+.env*/
+.ipynb_checkpoints/
+
+# -------------------------
+# Java
+# -------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.out
+*.idea/
+target/
+bin/
+build/
+
+# -------------------------
+# macOS / system
+# -------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+.Spotlight-V100
+.Trashes
+
+# -------------------------
+# Other common tools
+# -------------------------
+*.log
+*.sqlite3
+*.db
+*.csv~
+*.bak
+*.old
+*.orig
+
+
