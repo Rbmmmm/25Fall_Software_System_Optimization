@@ -1,0 +1,26 @@
+=== Log started for Autotuner ===
+[Autotuner 17:23:25] Experiment initialized in results/GridSearch/GridSearch_20251104_172325
+[Autotuner 17:23:25] Starting autotuning process...
+[Autotuner 17:23:25] Detected static search algorithm. Using parallel batch mode.
+[Autotuner 17:26:10] Finished: {'optimize_level': 'O0', 'block_size': '64'} -> 163.492050s
+[Autotuner 17:26:12] Finished: {'optimize_level': 'O0', 'block_size': '32'} -> 163.811371s
+[Autotuner 17:26:34] Finished: {'optimize_level': 'O0', 'block_size': '16'} -> 186.849014s
+[Autotuner 17:27:31] Finished: {'optimize_level': 'O1', 'block_size': '8'} -> 78.769318s
+[Autotuner 17:27:36] Finished: {'optimize_level': 'O1', 'block_size': '16'} -> 61.058350s
+[Autotuner 17:27:43] Finished: {'optimize_level': 'O0', 'block_size': '8'} -> 254.528107s
+[Autotuner 17:28:09] Finished: {'optimize_level': 'O1', 'block_size': '32'} -> 37.140007s
+[Autotuner 17:28:10] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 33.280762s
+[Autotuner 17:28:18] Finished: {'optimize_level': 'O1', 'block_size': '128'} -> 34.583279s
+[Autotuner 17:28:43] Finished: {'optimize_level': 'O2', 'block_size': '32'} -> 24.328014s
+[Autotuner 17:28:47] Finished: {'optimize_level': 'O2', 'block_size': '16'} -> 36.696556s
+[Autotuner 17:28:58] Finished: {'optimize_level': 'O0', 'block_size': '128'} -> 166.485977s
+[Autotuner 17:29:00] Finished: {'optimize_level': 'O2', 'block_size': '8'} -> 50.294167s
+[Autotuner 17:29:02] Finished: {'optimize_level': 'O2', 'block_size': '64'} -> 18.295853s
+[Autotuner 17:29:06] Finished: {'optimize_level': 'O2', 'block_size': '128'} -> 17.646675s
+[Autotuner 17:29:24] Finished: {'optimize_level': 'O3', 'block_size': '64'} -> 17.885191s
+[Autotuner 17:29:27] Finished: {'optimize_level': 'O3', 'block_size': '32'} -> 24.200933s
+[Autotuner 17:29:38] Finished: {'optimize_level': 'O3', 'block_size': '16'} -> 36.876274s
+[Autotuner 17:29:40] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 15.721875s
+[Autotuner 17:29:46] Finished: {'optimize_level': 'O3', 'block_size': '8'} -> 47.865715s
+[Autotuner 17:29:46] Best Configuration: {'config': {'optimize_level': 'O3', 'block_size': '128'}, 'time': 15.721875}
+[Autotuner 17:29:46] Total runtime: 381.45s

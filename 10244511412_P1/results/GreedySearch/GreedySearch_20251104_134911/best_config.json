@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "config": {
+                "optimize_level": "O1",
+                "block_size": "128"
+            },
+            "time": 31.182823
+        },
+        {
+            "config": {
+                "optimize_level": "O0",
+                "block_size": "128"
+            },
+            "time": 144.380905
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "128"
+            },
+            "time": 14.951244
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "64"
+            },
+            "time": 15.456622
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "128"
+            },
+            "time": 14.105265
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "64"
+            },
+            "time": 14.882729
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "128"
+            },
+            "time": 14.55559
+        }
+    ],
+    "best": {
+        "config": {
+            "optimize_level": "O3",
+            "block_size": "128"
+        },
+        "time": 14.105265
+    },
+    "summary": {
+        "algorithm": "GreedySearch",
+        "total_runtime_sec": 255.547
+    }
+}

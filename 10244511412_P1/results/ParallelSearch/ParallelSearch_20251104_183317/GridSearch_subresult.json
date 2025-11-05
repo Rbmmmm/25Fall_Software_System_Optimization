@@ -1,0 +1,151 @@
+{
+    "records": [
+        {
+            "config": {
+                "optimize_level": "O0",
+                "block_size": "8"
+            },
+            "time": 260.083252
+        },
+        {
+            "config": {
+                "optimize_level": "O0",
+                "block_size": "16"
+            },
+            "time": 181.947922
+        },
+        {
+            "config": {
+                "optimize_level": "O0",
+                "block_size": "32"
+            },
+            "time": 154.526093
+        },
+        {
+            "config": {
+                "optimize_level": "O0",
+                "block_size": "64"
+            },
+            "time": 143.555618
+        },
+        {
+            "config": {
+                "optimize_level": "O0",
+                "block_size": "128"
+            },
+            "time": 135.468048
+        },
+        {
+            "config": {
+                "optimize_level": "O1",
+                "block_size": "8"
+            },
+            "time": 71.186012
+        },
+        {
+            "config": {
+                "optimize_level": "O1",
+                "block_size": "16"
+            },
+            "time": 54.250042
+        },
+        {
+            "config": {
+                "optimize_level": "O1",
+                "block_size": "32"
+            },
+            "time": 29.887297
+        },
+        {
+            "config": {
+                "optimize_level": "O1",
+                "block_size": "64"
+            },
+            "time": 25.82823
+        },
+        {
+            "config": {
+                "optimize_level": "O1",
+                "block_size": "128"
+            },
+            "time": 26.975792
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "8"
+            },
+            "time": 43.504036
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "16"
+            },
+            "time": 31.290262
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "32"
+            },
+            "time": 21.879633
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "64"
+            },
+            "time": 17.073656
+        },
+        {
+            "config": {
+                "optimize_level": "O2",
+                "block_size": "128"
+            },
+            "time": 15.21237
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "8"
+            },
+            "time": 46.693691
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "16"
+            },
+            "time": 31.72781
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "32"
+            },
+            "time": 21.162544
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "64"
+            },
+            "time": 15.308767
+        },
+        {
+            "config": {
+                "optimize_level": "O3",
+                "block_size": "128"
+            },
+            "time": 14.436973
+        }
+    ],
+    "best": {
+        "config": {
+            "optimize_level": "O3",
+            "block_size": "128"
+        },
+        "time": 14.436973
+    }
+}

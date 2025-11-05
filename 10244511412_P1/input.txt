@@ -1,0 +1,4 @@
+target_program = matrix_multiplication.c
+search_algorithm = GridSearch
+optimize_level = O0,O1,O2,O3
+block_size = 8,16,32,64,128

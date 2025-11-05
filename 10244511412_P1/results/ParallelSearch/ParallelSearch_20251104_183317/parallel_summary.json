@@ -1,0 +1,44 @@
+{
+    "sub_algorithms": [
+        "GridSearch",
+        "RandomSearch",
+        "GreedySearch"
+    ],
+    "results": [
+        {
+            "algorithm": "GreedySearch",
+            "best_config": {
+                "optimize_level": "O2",
+                "block_size": "64"
+            },
+            "best_time": 15.805847,
+            "runtime": 126.04597187042236
+        },
+        {
+            "algorithm": "RandomSearch",
+            "best_config": {
+                "optimize_level": "O2",
+                "block_size": "64"
+            },
+            "best_time": 15.996641,
+            "runtime": 645.0952129364014
+        },
+        {
+            "algorithm": "GridSearch",
+            "best_config": {
+                "optimize_level": "O3",
+                "block_size": "128"
+            },
+            "best_time": 14.436973,
+            "runtime": 1360.6363470554352
+        }
+    ],
+    "global_best": {
+        "config": {
+            "optimize_level": "O3",
+            "block_size": "128"
+        },
+        "time": 14.436973
+    },
+    "total_runtime": 1360.7132360935211
+}

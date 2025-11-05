@@ -1,0 +1,50 @@
+=== Log started for Autotuner ===
+[Autotuner 15:17:28] Experiment initialized in results/SimulatedAnnealing/SimulatedAnnealing_20251104_151728
+[Autotuner 15:17:28] Starting autotuning process...
+[Autotuner 15:17:28] Detected dynamic search algorithm. Switching to iterative mode.
+[Autotuner 15:17:57] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 27.148758s
+[Autotuner 15:18:50] Finished: {'optimize_level': 'O1', 'block_size': '16'} -> 52.094925s
+[Autotuner 15:19:06] Finished: {'optimize_level': 'O3', 'block_size': '64'} -> 14.345016s
+[Autotuner 15:21:31] Finished: {'optimize_level': 'O0', 'block_size': '64'} -> 143.406616s
+[Autotuner 15:21:48] Finished: {'optimize_level': 'O2', 'block_size': '64'} -> 15.257333s
+[Autotuner 15:22:09] Finished: {'optimize_level': 'O3', 'block_size': '32'} -> 20.500381s
+[Autotuner 15:22:37] Finished: {'optimize_level': 'O3', 'block_size': '16'} -> 27.371803s
+[Autotuner 15:24:53] Finished: {'optimize_level': 'O0', 'block_size': '128'} -> 135.395920s
+[Autotuner 15:25:34] Finished: {'optimize_level': 'O2', 'block_size': '8'} -> 38.894524s
+[Autotuner 15:26:02] Finished: {'optimize_level': 'O2', 'block_size': '16'} -> 27.168112s
+[Autotuner 15:26:30] Finished: {'optimize_level': 'O3', 'block_size': '16'} -> 27.750357s
+[Autotuner 15:27:10] Finished: {'optimize_level': 'O3', 'block_size': '8'} -> 38.993835s
+[Autotuner 15:30:03] Finished: {'optimize_level': 'O0', 'block_size': '16'} -> 172.463715s
+[Autotuner 15:30:19] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 14.488712s
+[Autotuner 15:30:40] Finished: {'optimize_level': 'O3', 'block_size': '32'} -> 20.439882s
+[Autotuner 15:31:12] Finished: {'optimize_level': 'O1', 'block_size': '32'} -> 31.194160s
+[Autotuner 15:31:46] Finished: {'optimize_level': 'O2', 'block_size': '16'} -> 32.203651s
+[Autotuner 15:32:14] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 27.992237s
+[Autotuner 15:34:32] Finished: {'optimize_level': 'O0', 'block_size': '128'} -> 136.553024s
+[Autotuner 15:36:57] Finished: {'optimize_level': 'O0', 'block_size': '32'} -> 143.791351s
+[Autotuner 15:39:26] Finished: {'optimize_level': 'O0', 'block_size': '32'} -> 147.737961s
+[Autotuner 15:39:40] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 13.454713s
+[Autotuner 15:39:54] Finished: {'optimize_level': 'O2', 'block_size': '128'} -> 13.558813s
+[Autotuner 15:40:09] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 13.774669s
+[Autotuner 15:43:52] Finished: {'optimize_level': 'O0', 'block_size': '8'} -> 222.205231s
+[Autotuner 15:46:15] Finished: {'optimize_level': 'O0', 'block_size': '32'} -> 142.339615s
+[Autotuner 15:46:44] Finished: {'optimize_level': 'O1', 'block_size': '128'} -> 27.124969s
+[Autotuner 15:47:14] Finished: {'optimize_level': 'O1', 'block_size': '32'} -> 29.107038s
+[Autotuner 15:47:41] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 25.890320s
+[Autotuner 15:48:08] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 25.922422s
+[Autotuner 15:49:16] Finished: {'optimize_level': 'O1', 'block_size': '8'} -> 66.864609s
+[Autotuner 15:50:06] Finished: {'optimize_level': 'O1', 'block_size': '16'} -> 49.369915s
+[Autotuner 15:50:48] Finished: {'optimize_level': 'O2', 'block_size': '8'} -> 39.699654s
+[Autotuner 15:51:16] Finished: {'optimize_level': 'O1', 'block_size': '128'} -> 27.015759s
+[Autotuner 15:52:06] Finished: {'optimize_level': 'O1', 'block_size': '16'} -> 48.894131s
+[Autotuner 15:54:40] Finished: {'optimize_level': 'O0', 'block_size': '16'} -> 152.402756s
+[Autotuner 15:55:09] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 27.302675s
+[Autotuner 15:55:38] Finished: {'optimize_level': 'O1', 'block_size': '128'} -> 27.984545s
+[Autotuner 15:56:52] Finished: {'optimize_level': 'O1', 'block_size': '8'} -> 73.203690s
+[Autotuner 15:59:19] Finished: {'optimize_level': 'O0', 'block_size': '32'} -> 145.661926s
+[Autotuner 15:59:34] Finished: {'optimize_level': 'O3', 'block_size': '64'} -> 14.369945s
+[Autotuner 16:00:45] Finished: {'optimize_level': 'O1', 'block_size': '8'} -> 70.136787s
+[Autotuner 16:04:38] Finished: {'optimize_level': 'O0', 'block_size': '8'} -> 232.461212s
+[Autotuner 16:04:54] Finished: {'optimize_level': 'O2', 'block_size': '128'} -> 14.715145s
+[Autotuner 16:04:54] Best Configuration: {'config': {'optimize_level': 'O3', 'block_size': '128'}, 'time': 13.454713}
+[Autotuner 16:04:54] Total runtime: 2845.82s

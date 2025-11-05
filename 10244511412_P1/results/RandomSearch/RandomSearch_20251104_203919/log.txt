@@ -1,0 +1,16 @@
+=== Log started for Autotuner ===
+[Autotuner 20:39:19] Experiment initialized in results/RandomSearch/RandomSearch_20251104_203919
+[Autotuner 20:39:19] Starting autotuning process...
+[Autotuner 20:39:19] Detected static search algorithm. Using parallel batch mode.
+[Autotuner 20:39:36] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 14.366530s
+[Autotuner 20:39:51] Finished: {'optimize_level': 'O3', 'block_size': '64'} -> 15.041515s
+[Autotuner 20:40:01] Finished: {'optimize_level': 'O3', 'block_size': '8'} -> 40.714462s
+[Autotuner 20:40:08] Finished: {'optimize_level': 'O2', 'block_size': '64'} -> 15.765600s
+[Autotuner 20:40:17] Finished: {'optimize_level': 'O2', 'block_size': '128'} -> 15.534705s
+[Autotuner 20:40:30] Finished: {'optimize_level': 'O3', 'block_size': '32'} -> 21.570383s
+[Autotuner 20:40:49] Finished: {'optimize_level': 'O2', 'block_size': '16'} -> 30.846483s
+[Autotuner 20:41:00] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 29.175159s
+[Autotuner 20:41:47] Finished: {'optimize_level': 'O0', 'block_size': '128'} -> 145.662201s
+[Autotuner 20:41:54] Finished: {'optimize_level': 'O0', 'block_size': '32'} -> 152.616302s
+[Autotuner 20:41:54] Best Configuration: {'config': {'optimize_level': 'O3', 'block_size': '128'}, 'time': 14.36653}
+[Autotuner 20:41:54] Total runtime: 154.61s

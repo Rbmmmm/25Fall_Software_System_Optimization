@@ -1,0 +1,46 @@
+=== Log started for GreedySearch ===
+[GreedySearch 14:29:34] Starting sub-algorithm GreedySearch...
+[GreedySearch 14:29:51] GreedySearch: {'optimize_level': 'O2', 'block_size': '64'} -> 15.805847s
+[RandomSearch 14:30:07] RandomSearch: {'optimize_level': 'O1', 'block_size': '64'} -> 31.324120s
+[GreedySearch 14:30:10] GreedySearch: {'optimize_level': 'O3', 'block_size': '64'} -> 17.609194s
+[RandomSearch 14:30:24] RandomSearch: {'optimize_level': 'O3', 'block_size': '128'} -> 16.188793s
+[GreedySearch 14:30:34] GreedySearch: {'optimize_level': 'O2', 'block_size': '32'} -> 23.724058s
+[GreedySearch 14:31:05] GreedySearch: {'optimize_level': 'O1', 'block_size': '64'} -> 30.704365s
+[RandomSearch 14:31:15] RandomSearch: {'optimize_level': 'O2', 'block_size': '8'} -> 50.101986s
+[GreedySearch 14:31:22] GreedySearch: {'optimize_level': 'O2', 'block_size': '128'} -> 16.005993s
+[GreedySearch 14:31:40] GreedySearch: {'optimize_level': 'O2', 'block_size': '64'} -> 17.145626s
+[GreedySearch 14:31:40] GreedySearch finished. Best: {'optimize_level': 'O2', 'block_size': '64'} -> 15.805847s, Total: 126.05s
+[ParallelSearch 14:31:40] GreedySearch completed: Best={'optimize_level': 'O2', 'block_size': '64'}, Time=15.805847s
+[RandomSearch 14:31:49] RandomSearch: {'optimize_level': 'O3', 'block_size': '16'} -> 33.293789s
+[RandomSearch 14:32:05] RandomSearch: {'optimize_level': 'O2', 'block_size': '64'} -> 15.996641s
+[GridSearch 14:33:56] GridSearch: {'optimize_level': 'O0', 'block_size': '8'} -> 260.083252s
+[RandomSearch 14:36:18] RandomSearch: {'optimize_level': 'O0', 'block_size': '8'} -> 251.933014s
+[RandomSearch 14:36:51] RandomSearch: {'optimize_level': 'O1', 'block_size': '128'} -> 31.695374s
+[GridSearch 14:36:59] GridSearch: {'optimize_level': 'O0', 'block_size': '16'} -> 181.947922s
+[RandomSearch 14:37:25] RandomSearch: {'optimize_level': 'O2', 'block_size': '16'} -> 33.011127s
+[GridSearch 14:39:34] GridSearch: {'optimize_level': 'O0', 'block_size': '32'} -> 154.526093s
+[RandomSearch 14:39:58] RandomSearch: {'optimize_level': 'O0', 'block_size': '32'} -> 152.540466s
+[RandomSearch 14:40:19] RandomSearch: {'optimize_level': 'O3', 'block_size': '32'} -> 20.508757s
+[RandomSearch 14:40:19] RandomSearch finished. Best: {'optimize_level': 'O2', 'block_size': '64'} -> 15.996641s, Total: 645.10s
+[ParallelSearch 14:40:19] RandomSearch completed: Best={'optimize_level': 'O2', 'block_size': '64'}, Time=15.996641s
+[GridSearch 14:41:59] GridSearch: {'optimize_level': 'O0', 'block_size': '64'} -> 143.555618s
+[GridSearch 14:44:15] GridSearch: {'optimize_level': 'O0', 'block_size': '128'} -> 135.468048s
+[GridSearch 14:45:27] GridSearch: {'optimize_level': 'O1', 'block_size': '8'} -> 71.186012s
+[GridSearch 14:46:23] GridSearch: {'optimize_level': 'O1', 'block_size': '16'} -> 54.250042s
+[GridSearch 14:46:54] GridSearch: {'optimize_level': 'O1', 'block_size': '32'} -> 29.887297s
+[GridSearch 14:47:20] GridSearch: {'optimize_level': 'O1', 'block_size': '64'} -> 25.828230s
+[GridSearch 14:47:48] GridSearch: {'optimize_level': 'O1', 'block_size': '128'} -> 26.975792s
+[GridSearch 14:48:32] GridSearch: {'optimize_level': 'O2', 'block_size': '8'} -> 43.504036s
+[GridSearch 14:49:05] GridSearch: {'optimize_level': 'O2', 'block_size': '16'} -> 31.290262s
+[GridSearch 14:49:28] GridSearch: {'optimize_level': 'O2', 'block_size': '32'} -> 21.879633s
+[GridSearch 14:49:45] GridSearch: {'optimize_level': 'O2', 'block_size': '64'} -> 17.073656s
+[GridSearch 14:50:01] GridSearch: {'optimize_level': 'O2', 'block_size': '128'} -> 15.212370s
+[GridSearch 14:50:49] GridSearch: {'optimize_level': 'O3', 'block_size': '8'} -> 46.693691s
+[GridSearch 14:51:21] GridSearch: {'optimize_level': 'O3', 'block_size': '16'} -> 31.727810s
+[GridSearch 14:51:44] GridSearch: {'optimize_level': 'O3', 'block_size': '32'} -> 21.162544s
+[GridSearch 14:52:00] GridSearch: {'optimize_level': 'O3', 'block_size': '64'} -> 15.308767s
+[GridSearch 14:52:15] GridSearch: {'optimize_level': 'O3', 'block_size': '128'} -> 14.436973s
+[GridSearch 14:52:15] GridSearch finished. Best: {'optimize_level': 'O3', 'block_size': '128'} -> 14.436973s, Total: 1360.64s
+[ParallelSearch 14:52:15] GridSearch completed: Best={'optimize_level': 'O3', 'block_size': '128'}, Time=14.436973s
+[ParallelSearch 14:52:15] ParallelSearch finished in 1360.71s
+[ParallelSearch 14:52:15] Global Best: {'optimize_level': 'O3', 'block_size': '128'} -> 14.436973s

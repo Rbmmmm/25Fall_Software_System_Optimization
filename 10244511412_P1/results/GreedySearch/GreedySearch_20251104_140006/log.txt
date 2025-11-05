@@ -1,0 +1,17 @@
+=== Log started for Autotuner ===
+[Autotuner 14:00:06] Experiment initialized in results/GreedySearch/GreedySearch_20251104_140006
+[Autotuner 14:00:06] Starting autotuning process...
+[Autotuner 14:00:06] Detected dynamic search algorithm. Switching to iterative mode.
+[Autotuner 14:00:41] Finished: {'optimize_level': 'O2', 'block_size': '16'} -> 33.399242s
+[Autotuner 14:01:27] Finished: {'optimize_level': 'O2', 'block_size': '8'} -> 44.904800s
+[Autotuner 14:02:01] Finished: {'optimize_level': 'O3', 'block_size': '16'} -> 33.034233s
+[Autotuner 14:02:41] Finished: {'optimize_level': 'O3', 'block_size': '8'} -> 38.844425s
+[Autotuner 14:03:01] Finished: {'optimize_level': 'O3', 'block_size': '32'} -> 18.500170s
+[Autotuner 14:03:20] Finished: {'optimize_level': 'O2', 'block_size': '32'} -> 18.498308s
+[Autotuner 14:03:34] Finished: {'optimize_level': 'O2', 'block_size': '64'} -> 13.823319s
+[Autotuner 14:04:00] Finished: {'optimize_level': 'O1', 'block_size': '64'} -> 25.529190s
+[Autotuner 14:04:15] Finished: {'optimize_level': 'O3', 'block_size': '64'} -> 13.805275s
+[Autotuner 14:04:29] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 13.337964s
+[Autotuner 14:04:43] Finished: {'optimize_level': 'O2', 'block_size': '128'} -> 13.345612s
+[Autotuner 14:04:57] Finished: {'optimize_level': 'O3', 'block_size': '128'} -> 13.295287s
+[Autotuner 14:04:57] Best Configuration: {'config': {'optimize_level': 'O3', 'block_size': '128'}, 'time': 13.295287}
